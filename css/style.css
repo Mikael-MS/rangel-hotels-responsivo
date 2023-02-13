@@ -19,7 +19,7 @@ a {
     display: none;
 }
 
-.header-conatiner {
+.header-container {
     text-align: center;
 }
 
@@ -99,19 +99,19 @@ a {
 }
 
 
-.designg {
+.designing {
     margin-bottom: 3em;
 }
 
 
-.designg h3 {
+.designing h3 {
     color: #652e78;
     font-weight: normal;
     text-transform: uppercase;
     letter-spacing: 0.2em;
 }
 
-.designg p {
+.designing p {
     color: #222;
     line-height: 1.5;
 }
@@ -144,7 +144,7 @@ a {
 }
 
 @media screen and (min-width: 48.75em) {
-    .header-conatiner {
+    .header-container {
         display: flex;
         justify-content: space-between;
     }
@@ -194,12 +194,12 @@ a {
         max-width: 48%;
     }
 
-    .designg {
+    .designing {
         display: flex;
         flex-direction: column;
     }
 
-    .designg .button {
+    .designing .button {
         align-self: flex-end;
     }
 }
@@ -217,7 +217,7 @@ a {
 
 @media screen and (min-width: 74em) {
 
-    .header-conatiner {
+    .header-container {
         width: 82%;
         margin: auto;
     }
